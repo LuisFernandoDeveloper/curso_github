@@ -1,1 +1,1 @@
-"ola"
+console.log('teste')
