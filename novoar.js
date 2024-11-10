@@ -1,1 +1,3 @@
-console.log('teste')
+let nomes = ['luis', 'teste', 'teste']
+
+console.log(nomes)
